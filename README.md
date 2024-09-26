@@ -1,1 +1,2 @@
 # Ultra_efficient_TS_Classification
+This Repository contains a comparison between the TS Classificatoin Model ROCKET(Random Convolutional Kernel Transform) and other custom CNNs for the Classification of Voltage curvatures to detect a faulty installation of a motor. The goal was to create a model that is extremely small and efficient for the usage on edge devices.The result was an ultra efficient modeification of the ROCKET models with 34 free parameters that has a accuracy of 97%.
